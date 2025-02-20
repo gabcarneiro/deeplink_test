@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "gabcarneiro.github.io.projetinho",
             "sha256_cert_fingerprints": [
-                "0D:85:CF:13:A9:6D:15:45:58:C6:82:51:D5:10:87:BC:6C:72:18:10:2A:A1:A6:79:B2:F0:DC:67:96:B8:E3:70"
+                "0D:85:CF:13:A9:6D:15:45:58:C6:82:51:D5:10:87:BC:6C:72:18:10:2A:A1:A6:79:B2:F0:DC:67:96:B8:E3:70",
+                "14:54:CC:62:30:FF:5C:78:55:E4:57:BD:C4:8C:2C:A7:1A:56:E7:4F:8E:BF:3C:C2:90:46:6D:1D:49:7E:AC:C6"
             ]
         }
     }
