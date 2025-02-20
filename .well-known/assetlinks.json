@@ -1,1 +1,14 @@
-{}
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "gabcarneiro.github.io.projetinho",
+            "sha256_cert_fingerprints": [
+                "0D:85:CF:13:A9:6D:15:45:58:C6:82:51:D5:10:87:BC:6C:72:18:10:2A:A1:A6:79:B2:F0:DC:67:96:B8:E3:70"
+            ]
+        }
+    }
+]
